@@ -1,0 +1,4 @@
+#!/bin/sh
+
+PATH="..:$PATH"
+keyctl session - agenix --rekey --identity id_ed25519

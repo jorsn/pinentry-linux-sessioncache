@@ -1,0 +1,3 @@
+#!/bin/sh
+
+agenix --rekey --identity id_ed25519
